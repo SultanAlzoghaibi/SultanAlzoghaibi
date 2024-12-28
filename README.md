@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SultanAlzoghaibi
-- 👀 I’m interested in Fullstack development 
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate in any hackathons!
+- 👀 I’m interested in Fullstack development
+- 🌱 I’m currently learning React -> Next.js
+- 💻 I’m looking to collaborate in any hackathons!
 - https://www.linkedin.com/in/sultan-alzoghaibi-3b99a0250/
