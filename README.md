@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @SultanAlzoghaibi
-- 👀 I’m interested in Fullstack development
-- 🌱 I’m currently learning React -> Next.js
+- 👋 Hi, I’m @SultanAlzoghaibi from Canada
+- 🏫 I'm a student at the University of Calgary
+- 🏗️ I’m interested in Fullstack development
+- 🌱 I’m currently learning Next.js
 - 💻 I’m looking to collaborate in any hackathons!
-- https://www.linkedin.com/in/sultan-alzoghaibi-3b99a0250/
+- My Linkedin: https://www.linkedin.com/in/sultan-alzoghaibi-3b99a0250/
