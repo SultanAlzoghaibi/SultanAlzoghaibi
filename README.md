@@ -9,8 +9,9 @@
 - [My Next.js Portfolio site](https://sultan-alzoghaibi.com/)  
 
 ## 🛠️ Tech Stack   
-| 💻 Languages              | Java, TypeScript, JavaScript, Python, HTML/CSS, C, R |
-|--------------------------|------------------------------------------------------|
-| ⚙️ Frameworks            | React, Next.js, Tailwind CSS, JUnit, Node.js, Motion |
-| 📚 Libraries & Tools      | Git, Playwright, Figma                               |
-| ☁️ Cloud & Infrastructure| AWS ECS, ECS Fargate, EC2, Docker                    |
+<pre>
+💻 Languages:              Java, TypeScript, JavaScript, Python, HTML/CSS, C, R
+⚙️ Frameworks:             React, Next.js, Tailwind CSS, JUnit, Node.js, Motion
+📚 Libraries & Tools:      Git, Playwright, Figma
+☁️ Cloud & Infrastructure: AWS ECS, ECS Fargate, EC2, Docker
+</pre>
