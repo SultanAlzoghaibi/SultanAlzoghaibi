@@ -13,5 +13,5 @@
 💻 Languages:              Java, TypeScript, JavaScript, Python, HTML/CSS, C, R
 ⚙️ Frameworks:             React, Next.js, Tailwind CSS, JUnit, Node.js, Motion
 📚 Libraries & Tools:      Git, Playwright, Figma
-☁️ Cloud & Infrastructure: AWS ECS, ECS Fargate, EC2, Docker
+☁️ Cloud & Infrastructure: AWS ECS Fargate, EC2, Docker, CloudWatch
 </pre>
