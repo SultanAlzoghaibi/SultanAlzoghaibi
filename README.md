@@ -10,8 +10,8 @@
 
 ## 🛠️ Tech Stack   
 <pre>
-💻 Languages:              Java, TypeScript, JavaScript, Python, HTML/CSS, C, R
-⚙️ Frameworks:             React, Next.js, Tailwind CSS, JUnit, Node.js, Motion
-📚 Libraries & Tools:      Git, Playwright, Figma
-☁️ Cloud & Infrastructure: AWS ECS Fargate, EC2, Docker, CloudWatch
+💻 Languages:              Java, TypeScript, JavaScript, Python, SQL, HTML/CSS, C, R
+⚙️ Frameworks:             Spring Boot, React, Next.js, Tailwind CSS, JUnit, Node.js, Motion
+📚 Libraries & Tools:      Git, Playwright, Figma, Aceternity-UI, Shadcn-UI
+☁️ Cloud & Infrastructure: AWS ECS Fargate, EC2, Docker, CloudWatch, Supabase, PostgreSQL
 </pre>
