@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @SultanAlzoghaibi  
 - 🇨🇦 From Vancouver, Canada 
 - 🏫 Student at the University of Calgary  
-- 🏗️ Interested in backend and infrastructure (Distributed systems, cloud, etc) 
+- 🏗️ Interested in backend and infrastructure (Distributed systems, cloud, microservices, etc) 
 - 💻 Looking to collaborate in hackathons!  
 
 ## 🌐 Connect with Me  
@@ -10,8 +10,9 @@
 
 ## 🛠️ Tech Stack   
 <pre>
-💻 Languages:              Java, TypeScript, JavaScript, Python, SQL, HTML/CSS, C, R
+💻 Languages:              Java, TypeScript, JavaScript, Python, SQL, HTML/CSS, JSON, XML, C, R
 ⚙️ Frameworks:             Spring Boot, React, Next.js, Tailwind CSS, JUnit, Node.js, Motion
+🔌 APIs & Integrations:    RESTful APIs, WebSockets, Slack API, Stripe API, OpenAI API
 📚 Libraries & Tools:      Git, Playwright, Figma, Aceternity-UI, Shadcn-UI
-☁️ Cloud & Infrastructure: AWS ECS Fargate, EC2, Docker, CloudWatch, Supabase, PostgreSQL
+☁️ Cloud & Infrastructure: Docker, AWS ECS Fargate, EC2, PostgreSQL, Redis, CloudWatch, Supabase
 </pre>
