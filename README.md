@@ -13,6 +13,6 @@
 💻 Languages:              Java, TypeScript, JavaScript, Python, C++, SQL, HTML/CSS, JSON, XML, C, R
 ⚙️ Frameworks:             Spring Boot, React, Next.js, Tailwind CSS, JUnit, Node.js, Motion
 🔌 APIs & Integrations:    RESTful APIs, gRPC, WebSocket, Slack API, Stripe API, OpenAI API, Protocol Buffers
-📚 Libraries & Tools:      Git, Playwright, Figma, Visual Studio Code, IntelliJ IDEA, Clion, PyCharm, pgAdmin, Redis Insight
+📚 Libraries & Tools:      Git, Playwright, Figma, VS Code, IntelliJ, Clion, PyCharm, pgAdmin, Redis Insight
 ☁️ Cloud & Infrastructure: Docker, AWS ECS Fargate, EC2, PostgreSQL, Redis, CloudWatch, Supabase, ngrok
 </pre>
