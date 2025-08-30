@@ -10,10 +10,10 @@
 
 ## 🛠️ Tech Stack   
 <pre>
-💻 Languages:              Java, TypeScript, JavaScript, Python, C++, SQL, HTML/CSS, JSON, YAML, XML, C, R
+💻 Languages:              Java, TypeScript, JavaScript, Python, SQL, HTML/CSS, JSON, YAML, XML, C, R
 ⚙️ Frameworks:             Spring Boot, React, Next.js, Tailwind CSS, JUnit, Node.js, Motion
 🔌 APIs & Integrations:    RESTful APIs, gRPC, WebSocket, Slack API, Stripe API, OpenAI API, Protocol Buffers
 🧰 Tools:                  Git, Bash, Playwright, Figma, VS Code, IntelliJ IDEA, CLion, PyCharm, pgAdmin, Redis Insight, k6
 ☁️ Cloud & Deployment:     AWS (ECS Fargate, EKS, EC2, ECR, CloudWatch, IAM), Terraform, ngrok
-🛠️ Infra & DevOps:         Docker, Kubernetes, PostgreSQL, Redis,  Linux, TCP/IP, NGINX, Supabase, Minikube, Kafka
+🛠️ Infra & DevOps:         Docker, Kubernetes, PostgreSQL, Redis,  Linux, TCP/IP, NGINX, Supabase, Minikube
 </pre>
