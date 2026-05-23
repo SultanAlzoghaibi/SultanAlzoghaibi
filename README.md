@@ -2,11 +2,11 @@
 - 🇨🇦 From Vancouver, Canada 
 - 🏫 Student at the University of Calgary  
 - 🏗️ Interested in backend and infrastructure (Distributed systems, scalability, cloud, microservices, etc) 
-- 💻 Looking to collaborate in hackathons!  
+- 💻 Looking to collaborate in MLH hackathons!
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sultan-alzoghaibi-3b99a0250/)  
-- [My Next.js Portfolio site](https://sultan-alzoghaibi.com/)  
+- [Portfolio site](https://sultan-alzoghaibi.com/)  
 
 ## 🛠️ Tech Stack   
 <pre>
